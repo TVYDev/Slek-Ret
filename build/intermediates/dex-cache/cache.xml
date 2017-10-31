@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\d02fe6fe5449683a7e17ca7e1a81c739e1c3cb0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_82188314e062ade88cb5dc619b7e1518f3028873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0-RC0\46d23cdc19155c5f0d47ece99ca1c421346c1509\disklrucache-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\disklrucache-4.0.0-RC0_78c9f8cf3569d7e6706d7afe0582deded95e2d8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\8e4e55f80cdc56bca16dc35d1ce13fe7b0266ca7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_d1e134c8bb553faff76bcac045a4acd7438435aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\9f5934089c8fcf3a878487e04f5572500c00f0ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_b4e81ef6759073187fd508b612f5d6358c725933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\336d6d2c109c135c10d91571b4eafd643dae1271\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_5c257ed02adcb2303e345ca2bfda87e693c6e8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\a55b84883ea2855b6a87192245a56cbf2a0122f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_a38ad12e0d9257da26dde9e9a43e0af99d3e8f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\ef105ec670d525d21605f618e36f3bdc59d76741\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_94a58586f99eb732a235e6418b570000859925ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\7590c4e643c31f292c252d404f5314ae2b84d83c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_d2bb830cd250e0e09889f5534d296926d367b178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\ba529edac322b249e7f0b06aeefc61eedde05052\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_fd8d06052d29f6bc1187c6337c11081fa5bdf891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\66ecbde1d62804b43e7abde8a6d6c16f7e8c9007\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_414cffaf97ee5e6064dab14006a93606e3bc14a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5c41e393042eaf038383105bee4119ad971a6755.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\44998abb1623a8f3c0b14d74c953956793849311\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dcf45e3a895812fc62b9ab19974b8dc598e6980">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_f75ad40035ad6b64ccd85b4e0b7d537f7a931416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0-RC0\d5dd0afc50069b7fa0fc12ac85f91efa8df4db67\annotations-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\annotations-4.0.0-RC0_5335505cd46cded7feadb048aa3bf5ac03d909d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\f962661a9786de687e6f7a02bae03e71b66baad8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_d77add87480f0a64a757a76b1071f4e3f693cf29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\25bde5c66c0e8eeae5dc3b48304474c22a73b7ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_4bd97fd5a927d4f3fce385028d4a4cae3ce12fcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0-RC0\eb86cd1d96acc30dcebf338abaf2c62ca28bf355\glide-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\glide-4.0.0-RC0_f76ce8936f8ac7c0c599bad62046c61c9effb671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\293b518900df48382fad0fc5ae71a4294e48ba2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_49663ab9c398bbda0a105a497e81acb0597753fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\5b2b1b0327add2241484c6a932f914f584d0a564\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_d247b0b3920592df9465481067683130c7d81228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_46e698134fd3a1da3e899e23ce785933eb7f1b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0-RC0\c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7\gifdecoder-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\gifdecoder-4.0.0-RC0_16003ab52b0c1c9ab105bba1a0345255c9a4951e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\904f62bd81d829ea2ad22753e1852124c95df9b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_bd4f73f120020827f25f33e0c10131983800cfa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\e9ebf03450ce949b2600408fa37e454233c7eec4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_9e696281e116621166a3fde1a65c1d2e97c40071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\gson-2.3_a2019315515164573b8fab0c0a0eab2a56a1a3af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TVY\.android\build-cache\061eb418902231ecf912cd939c01669f01892ca5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1399954e045a87a4c391733ca4625be440f99360">
+        <dex dex="D:\Android_studio_projects\SlekRet\app\build\intermediates\pre-dexed\debug\classes_67468ee8bbb3844517208e134121b3f1aafe4c30.jar" />
+    </item>
+
+</items>

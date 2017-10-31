@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_resize"
+        android:title="Resize">
+    </item>
+
+    <item
+        android:id="@+id/id_delete"
+        android:title="Delete">
+    </item>
+
+    <item
+        android:id="@+id/id_bringToFront"
+        android:title="Bring to front">
+    </item>
+
+    <item
+        android:id="@+id/id_sendToBack"
+        android:title="Send to back">
+    </item>
+</menu>

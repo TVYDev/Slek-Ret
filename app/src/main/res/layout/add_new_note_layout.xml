@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="0px"
+            android:layout_height="0px"
+            android:id="@+id/dummy_layout"
+            android:orientation="horizontal" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Click Here To Name Your Note"
+            android:nextFocusUp="@id/dummy_layout"
+            android:nextFocusLeft="@id/dummy_layout">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/txt_note_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </android.support.design.widget.TextInputLayout>
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Please name your note"-->
+            <!--android:id="@+id/txt1"-->
+            <!--android:textAppearance="?android:attr/textAppearanceLarge"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--/>-->
+
+        <!--<EditText-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/txt1"-->
+            <!--android:id="@+id/txt_note_name"-->
+            <!--android:theme="@style/">-->
+            <!--<requestFocus />-->
+            <!--</EditText>-->
+
+    </RelativeLayout>
+
+</LinearLayout>

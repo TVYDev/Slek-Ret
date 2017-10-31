@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="whiteTransparent80">#CCFFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="blueTransparent50">#7F3F51B5</color>
+    <color name="blueTransparent80">#CC3F51B5</color>
+    <color name="blue_divider">#cc6078fc</color>
+    <!--<color name="slekretColor">#C29762</color>-->
+    <color name="slekretColor">#92bbda</color>
+    <color name="slekretColor1">#deb788</color>
+</resources>
